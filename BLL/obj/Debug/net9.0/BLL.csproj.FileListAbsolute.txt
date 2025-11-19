@@ -1,0 +1,15 @@
+/Users/svetlanaena/Documents/Laboratorna3/BLL/bin/Debug/net9.0/BLL.deps.json
+/Users/svetlanaena/Documents/Laboratorna3/BLL/bin/Debug/net9.0/BLL.dll
+/Users/svetlanaena/Documents/Laboratorna3/BLL/bin/Debug/net9.0/BLL.pdb
+/Users/svetlanaena/Documents/Laboratorna3/BLL/bin/Debug/net9.0/DAL.dll
+/Users/svetlanaena/Documents/Laboratorna3/BLL/bin/Debug/net9.0/DAL.pdb
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.csproj.AssemblyReference.cache
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.AssemblyInfoInputs.cache
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.AssemblyInfo.cs
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.csproj.CoreCompileInputs.cache
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.csproj.Up2Date
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.dll
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/refint/BLL.dll
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.pdb
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/ref/BLL.dll
