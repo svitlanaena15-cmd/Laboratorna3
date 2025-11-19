@@ -19,7 +19,8 @@ namespace DAL
         {
             var xs = new XmlSerializer(typeof(Student[]));
             using var fs = new FileStream(path, FileMode.Create);
-            xs.Serialize(fs, students);
+            var arr = students is Student[] sArr ? sArr : students.ToArray();
+            xs.Serialize(fs, arr);
         }
     }
 }

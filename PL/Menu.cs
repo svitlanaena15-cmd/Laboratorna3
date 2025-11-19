@@ -58,6 +58,8 @@ namespace PL
                             Passport = passport ?? "" 
                         };
 
+                        _service.Add(dto);
+
                         Console.WriteLine("Додано.");
                         break;
                     case "3":
