@@ -18,3 +18,4 @@
 /Users/svetlanaena/Documents/Laboratorna3/PL/obj/Debug/net9.0/PL.pdb
 /Users/svetlanaena/Documents/Laboratorna3/PL/obj/Debug/net9.0/PL.genruntimeconfig.cache
 /Users/svetlanaena/Documents/Laboratorna3/PL/obj/Debug/net9.0/ref/PL.dll
+/Users/svetlanaena/Documents/Laboratorna3/PL/obj/Debug/net9.0/PL.sourcelink.json

@@ -13,3 +13,4 @@
 /Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/refint/BLL.dll
 /Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.pdb
 /Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/ref/BLL.dll
+/Users/svetlanaena/Documents/Laboratorna3/BLL/obj/Debug/net9.0/BLL.sourcelink.json
